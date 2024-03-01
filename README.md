@@ -13,8 +13,9 @@
 
 ## 배포 주소
 
-### <a href='https://campro-alpha.vercel.app' target="_blank" rel="noopener noreferrer">CamPro</a>
+### <a href='https://campro.life' target="_blank" rel="noopener noreferrer">CamPro</a>
 
+### <a href='https://www.youtube.com/watch?v=_Rn0wOPBlYc' target="_blank" rel="noopener noreferrer">CamPro시연 영상</a>
 <br/>
 <br/>
 
